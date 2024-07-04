@@ -1,4 +1,4 @@
-- .md is atnsd for markdown
+- .md is stand for markdown
 
 #The Course I take is:
 Learn how to create a Git repository, clone it, make changes, and submit changes to GitHub in less than 30 minutes.
